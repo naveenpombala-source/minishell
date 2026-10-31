@@ -1,0 +1,13 @@
+ls
+bash
+pwd
+mkdir
+ps
+grep
+cat
+sleep
+wc
+rm
+mv
+cp
+date
